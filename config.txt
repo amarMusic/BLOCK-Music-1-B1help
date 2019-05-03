@@ -1,0 +1,6 @@
+﻿token=NTYzODI4NTcyOTQ3NDgwNTc3.XMzCCw.0vUp9ccZs3S0WMaQX4KUNoJVo9E 
+owner=546791640556371998 
+prefix= B1
+game= B1help
+stayinchannel=true
+songinstatus=true 
