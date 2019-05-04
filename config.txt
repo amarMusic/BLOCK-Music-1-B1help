@@ -1,6 +1,6 @@
-﻿token=NTYzODI4NTcyOTQ3NDgwNTc3.XMzCCw.0vUp9ccZs3S0WMaQX4KUNoJVo9E 
+﻿token=NTYzODI4NTcyOTQ3NDgwNTc3.XM1lCw.Bb8zjf0Pz6TIRvknp2WwxS0RF28
 owner=546791640556371998 
 prefix= B1
-game= B1help
+game= !B1help
 stayinchannel=true
 songinstatus=true 
